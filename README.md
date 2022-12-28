@@ -234,7 +234,7 @@ And lets adjust our script accordingly with said API
 
 <p align="center">
 <img src="https://i.imgur.com/gQqOb6A.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<br />
 <br />
 <br />
 
@@ -271,32 +271,236 @@ And here are our sample logs
 
 <p align="center">
 <img src="https://i.imgur.com/XZHFqFs.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+
+
+
+Now lets give a path of the VM where Sentinel can see the logfile the script creates and pulls the necessary information we want it to look for
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/37F4QEY.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+
+
+
+How we got that path
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/g6GSf30.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+
+
+
+Now lets run the query in Sentinel to see if it can pull the raw data we want. 
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/WkaXhTb.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+
+
+
+Since this will take a while to load, lets do another failed logon to update the query. 
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/9rrkQTt.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+
+
+
+And here is our Query data.  And lets Extract the fileds of the data so we can plot those later...
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/xnOG8nz.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+
+
+Starting with Latitude *We did the same for longitude.  There was a locaion that had a negative longitude that I want to use instead of the positive number so I forgot to screenshot it but no worries, the process is the same.  Just make sure they are both labeled as numeric values.*
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/HN0Zz36.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+
+
+
+Then Destination host, username, sourcehost, and state...
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/JP3wbha.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+
+ <p align="center">
+<img src="https://i.imgur.com/GaZElX8.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+
+  <p align="center">
+<img src="https://i.imgur.com/3PWtcGM.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+
+   <p align="center">
+<img src="https://i.imgur.com/1N7f2vd.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+<br />
+
+
+
+Now, when we 
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now we will connect our LAW to our VM
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now we will connect our LAW to our VM
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
