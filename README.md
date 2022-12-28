@@ -377,130 +377,129 @@ Then Destination host, username, sourcehost, and state...
 
 
 
-Now, when we 
+Now, when we went to do the same for the Country label, we ran into an issue where Sentinel did not localte the right information.  But again, no worries, we can just modify the entry like this and make the change as easily as we did before by clicking the compass to the right of the entry and then selecting to modify this entry.  It will carry over to all the entries with the same date and may even to the ones that even have different information
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/k2ocdwS.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+OOPS, same thing happened when wanted to create the time stamp. BUT AGIAN, no worries.
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/cOT6eGH.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+Here we can see our cutom logs once we go back to our Log Analytics Workspace resource and select custom logs from the side panel. *Note, you may have to delete and add those logs over again a few times to make sure the data is read correctly in Sentinel. Sometimes just once is not sufficient enough to get a complete set*
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/W8q3fkZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+Now lets do another failed logon to add more info to the query after we updated and extracted labels from the raw data.  Sentinel needs fresh data after we create our logs to plot them correctly 
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/GhWenvK.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+Now lets create a Workbook in Sentinel to plot that newly labeld data on a map for us.
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/bWgVHQ4.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+And lets add the Source Code of the query given to us in the instructional video
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/8OvHbuI.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+We will set our map settings to plot by latitude and longitude.  This is where you may run into issues with you custom logs not populating properly which does not allow the map to plot these locations like below.  
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/euWcJer.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+And now we will save that workbook and set the Auto Refresh to every 5 minutes and this is what we get
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/5NbOwV4.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+<h2>BUT THATS NOT FUN!! WHERE ARE ALL THE ATTACKS</h2>
 <br />
 <br />
 <br />
 
+<h2>YUCK!!</h2>
 <p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/AVvo21m.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
+Thats more like it, this is from one of my previous runthroughs of this lab.  I would like to do these labs at least 5 times before I post them to say that I have knowledge of what was done.
 <br />
 <br />
 <br />
 
-<p align="center">
-<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
@@ -508,14 +507,5 @@ Now that we hav added out API and we have ran the script, we will go to the log 
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
-<p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
-<p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
