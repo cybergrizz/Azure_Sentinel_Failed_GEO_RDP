@@ -90,128 +90,198 @@ Setting the Data Collection to all
 <p align="center">
 <img src="https://i.imgur.com/IseMWMU.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+<br />
 
-
-
-
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
 
 
-
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+And add Sentinel to our LAW
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/iYPgSgK.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+<br />
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+We will do a failed logon to the VM first before we actually log into it
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/CAMbJdv.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
 
 
-
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+And add Sentinel to our LAW
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/iYPgSgK.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+<br />
 
-
-
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+<br />
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+
+Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
 
+
+
+Now we will connect our LAW to our VM
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now we will connect our LAW to our VM
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now we will connect our LAW to our VM
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+
+
+
+Now we will connect our LAW to our VM
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
