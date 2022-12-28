@@ -5,7 +5,7 @@
 
 
 <h2>Description</h2>
-<b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
+<b>In this lab we will created a Map in Azure Sentinel that will display multiple brute force attacks from all over the world.  We will use a Virtual Machine to crete a Honeypot where the malicious attackers can try to gain access to for the logging we need to plot those attacks on our Map in Azure Sentinel
 </b>
 <br />
 <br />
