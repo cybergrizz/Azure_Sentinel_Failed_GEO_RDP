@@ -20,6 +20,9 @@ First, with out pay-as-you-go Azure subscription, we will create our Virtual MAc
 <p align="center">
 <img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+<br />
 
 
 Let us now set the Newtork Security Groups of this Virtual Machine TERRIBLY!!
@@ -40,15 +43,17 @@ Let us now set the Newtork Security Groups of this Virtual Machine TERRIBLY!!
 
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+Now that we have set the TERRIBLE Network Security Groups, we will Review nad Crete our HoneyPot
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/ggX6bwL.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
-
+<br />
+<br />
+<br />
 
 
 First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
