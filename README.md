@@ -390,7 +390,7 @@ Now, when we went to do the same for the Country label, we ran into an issue whe
 
 
 
-OOPS, same thing happened when wanted to create the time stamp. BUT AGIAN, no worries.
+OOPS, same thing happened when wanted to create the time stamp. BUT AGAIN, no worries.
 <br />
 <br />
 <br />
