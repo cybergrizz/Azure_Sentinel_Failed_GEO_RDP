@@ -41,7 +41,9 @@ Let us now set the Newtork Security Groups of this Virtual Machine TERRIBLY!!
 <img src="https://i.imgur.com/NrfDDr9.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 
-
+<br />
+<br />
+<br />
 
 Now that we have set the TERRIBLE Network Security Groups, we will Review nad Crete our HoneyPot
 <br />
@@ -56,25 +58,39 @@ Now that we have set the TERRIBLE Network Security Groups, we will Review nad Cr
 <br />
 
 
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+While we wait for our Virtual Machine to deploy, lets get started on creating our Log Analystics Workspace Resource
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/FBYAFL1.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+<br />
 
 
-
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+With our Virtual Machine and Log Analytics Workspace now created, lets set up our Microsoft Defneder Setting to give up some alerts and to use a couple of their servers for our logs.
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/TRuw4QF.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
+<br />
+<br />
+
+Setting the Data Collection to all
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/IseMWMU.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
 
 
 
