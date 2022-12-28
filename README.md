@@ -18,9 +18,179 @@ First, with out pay-as-you-go Azure subscription, we will create our Virtual MAc
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
-<h2>Languages Used</h2>
+
+
+Let us now set the Newtork Security Groups of this Virtual Machine TERRIBLY!!
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/jKyyfxS.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/NrfDDr9.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+
+First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gL4WGWD.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
