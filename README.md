@@ -166,7 +166,7 @@ Lets see if we can connect to the VM now on out local machine...
 
 <p align="center">
 <img src="https://i.imgur.com/hvyn1O5.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<br />
 <br />
 <br />
 
@@ -184,97 +184,93 @@ Lets see if we can connect to the VM now on out local machine...
 
 <p align="center">
 <img src="https://i.imgur.com/XjJIe5z.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<br />
 <br />
 <br />
  
  <p align="center">
 <img src="https://i.imgur.com/bRev4gN.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<br />
 <br />
 <br />
 
    <p align="center">
 <img src="https://i.imgur.com/57lFl2K.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<br />
 <br />
 <br />
     
 <h2>SUCCESS!</h2>
 
 
-Now because the script we are runnig creates a log file in our ProgramData folder, we need to open our Explorer Settings and set our view to Show Hidden Files and Folders
+Now because the script we are runnig creates a log file in our Program Data folder, we need to open our Explorer Settings and set our view to Show Hidden Files and Folders
 <br />
 <br />
 <br />
 
 <p align="center">
 <img src="https://i.imgur.com/mSSARhK.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+<br />
+
+
+
+For this script to run and give us the data we need, we will venture to a website that allows us to see the Geographical location of attempt logs on our machine.  This is where they will create a custom API key for me to use to get an idea of where those baddies live. 
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/a1TZBS7.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<br />
+<br />
+
+
+And lets adjust our script accordingly with said API
+<br />
+<br />
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/gQqOb6A.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now we will connect our LAW to our VM
+Now that we hav added out API and we have ran the script, we will go to the log file created and copy that data to our local machine to create a sample template that Sentinel would love to have for the next part of our Cyber Duties
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<img src="https://i.imgur.com/2qlHVOa.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 <br />
-<br />
-
-
-
-Now we will connect our LAW to our VM
-<br />
-<br />
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
 <br />
 <br />
 
 
 
-Now we will connect our LAW to our VM
+And lets give that file to Sentinel
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
+<img src="https://i.imgur.com/0P7hu2E.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 <br />
 <br />
 
 
-
-Now we will connect our LAW to our VM
+And here are our sample logs
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
- <br />
-<br />
-<br />
-
-
-
-Now we will connect our LAW to our VM
-<br />
-<br />
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/XZHFqFs.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
