@@ -339,7 +339,7 @@ And here is our Query data.  And lets Extract the fileds of the data so we can p
 <br />
 
 
-Starting with Latitude *We did the same for longitude.  There was a locaion that had a negative longitude that I want to use instead of the positive number so I forgot to screenshot it but no worries, the process is the same.  Just make sure they are both labeled as numeric values.*
+Starting with Latitude *We did the same for longitude.  There was a locayion that had a negative longitude that I wanted to use instead of the positive number so I forgot to take a screenshot of it but no worries, the process is the same.  Just make sure they are both labeled as numeric values.*
 <br />
 <br />
 <br />
@@ -429,7 +429,7 @@ Now lets do another failed logon to add more info to the query after we updated 
 
 
 
-Now lets create a Workbook in Sentinel to plot that newly labeld data on a map for us.
+Now lets create a Workbook in Sentinel to plot that newly labeled data on a map for us.
 <br />
 <br />
 <br />
@@ -455,7 +455,7 @@ And lets add the Source Code of the query given to us in the instructional video
 
 
 
-We will set our map settings to plot by latitude and longitude.  This is where you may run into issues with you custom logs not populating properly which does not allow the map to plot these locations like below.  
+We will set our map settings to plot by latitude and longitude.  *This is where you may run into issues with your custom logs not populating properly which does not allow the map to plot these locations like below.*  
 <br />
 <br />
 <br />
