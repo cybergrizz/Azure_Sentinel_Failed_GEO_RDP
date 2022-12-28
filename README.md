@@ -130,27 +130,28 @@ We will do a failed logon to the VM first before we actually log into it
 </p>
 <br />
 <br />
+<br />
 
 
-And add Sentinel to our LAW
+Now Lets Succefully logon
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/iYPgSgK.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/RH3RIH9.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <br />
 <br />
 <br />
 
-Now we will connect our LAW to our VM
+And now we will open Event Viewer to see the logs of our logon attempts.  Here is the failed log we just administered. 
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/80BcFsc.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <br />
 <br />
@@ -158,20 +159,25 @@ Now we will connect our LAW to our VM
 
 
 
-Now we will connect our LAW to our VM
+Lets see if we can connect to the VM now on out local machine...
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/hvyn1O5.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
 
 
-Now we will connect our LAW to our VM
+<h2>UNSUCCESSFUL</h2>
+<br />
+<br />
+<br />
+ 
+ Now we will connect our LAW to our VM
 <br />
 <br />
 <br />
