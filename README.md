@@ -177,26 +177,39 @@ Lets see if we can connect to the VM now on out local machine...
 <br />
 <br />
  
- Now we will connect our LAW to our VM
+ Now lets adjust our FireWall settings to allow some nwtwork connectivity to our VM.  THIS IS ALSO NOT SUGGESTED FOR PRODUCTION USE AND ONLY AS WE ARE LABBING!!
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/XjJIe5z.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+ 
+ <p align="center">
+<img src="https://i.imgur.com/bRev4gN.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
 
+   <p align="center">
+<img src="https://i.imgur.com/57lFl2K.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+ <br />
+<br />
+<br />
+    
+<h2>SUCCESS!</h2>
 
 
-Now we will connect our LAW to our VM
+Now because the script we are runnig creates a log file in our ProgramData folder, we need to open our Explorer Settings and set our view to Show Hidden Files and Folders
 <br />
 <br />
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/1Cgo7OE.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/mSSARhK.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
  <br />
 <br />
 <br />
