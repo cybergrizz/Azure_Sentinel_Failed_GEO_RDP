@@ -5,14 +5,14 @@
 
 
 <h2>Description</h2>
-<b>In this lab we will created a Map in Azure Sentinel that will display multiple brute force attacks from all over the world.  We will use a Virtual Machine to crete a Honeypot where the malicious attackers can try to gain access to for the logging we need to plot those attacks on our Map in Azure Sentinel
+<b>In this lab we will have created a Map in Azure Sentinel that will display multiple brute force attacks from all over the world.  We will use a Virtual Machine to create a Honeypot where those malicious attackers can try to gain access to. We will use parameters to create custom logs that we will then plot on a map in Azure Sentinel. 
 </b>
 <br />
 <br />
 <br />
 <br />
 <br />
-First, with out pay-as-you-go Azure subscription, we will create our Virtual MAchine that will act as our HoneyPot
+First, with out pay-as-you-go Azure subscription, we will create our Virtual Machine that will act as our HoneyPot
 <br />
 <br />
 <br />
