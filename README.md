@@ -45,7 +45,7 @@ Let us now set the Newtork Security Groups of this Virtual Machine TERRIBLY!!
 <br />
 <br />
 
-Now that we have set the TERRIBLE Network Security Groups, we will Review nad Crete our HoneyPot
+Now that we have set the TERRIBLE Network Security Groups, we will Review and Create our HoneyPot
 <br />
 <br />
 <br />
